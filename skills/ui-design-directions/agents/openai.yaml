@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI 设计方案对照"
+  short_description: "调研真实产品案例，展示四版有区分度的设计大图，选定后再开发"
+  default_prompt: "用 $ui-design-directions 调研适合我产品的案例，给我看四个不同方向的大图，等我选定后再开发。"
